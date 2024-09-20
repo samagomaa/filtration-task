@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/filtration-task/static/css/main.11f5092b.css",
+    "main.js": "/filtration-task/static/js/main.19e1555a.js",
+    "static/js/453.43025977.chunk.js": "/filtration-task/static/js/453.43025977.chunk.js",
+    "static/media/pizza1.png": "/filtration-task/static/media/pizza1.9c94572732e1f8a585b8.png",
+    "static/media/pizza2.png": "/filtration-task/static/media/pizza2.6f0ef9c7838971a84ce6.png",
+    "index.html": "/filtration-task/index.html",
+    "main.11f5092b.css.map": "/filtration-task/static/css/main.11f5092b.css.map",
+    "main.19e1555a.js.map": "/filtration-task/static/js/main.19e1555a.js.map",
+    "453.43025977.chunk.js.map": "/filtration-task/static/js/453.43025977.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.11f5092b.css",
+    "static/js/main.19e1555a.js"
+  ]
+}
